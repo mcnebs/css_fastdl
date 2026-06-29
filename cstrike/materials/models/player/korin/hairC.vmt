@@ -1,0 +1,15 @@
+"vertexlitgeneric"
+{
+	"$baseTexture" "models\player\korin/hairC"
+//	"$envmap" "env_cubemap"	
+//	"$envmaptint" "[.2 .2 .2]"
+	"$translucent" 1
+	"$halflambert" 1
+//	"$nodecal" 1
+	"$envmapcontrast" 0
+//	"$selfillum" 1
+
+}
+
+
+

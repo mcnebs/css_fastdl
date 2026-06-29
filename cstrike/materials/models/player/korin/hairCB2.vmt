@@ -1,0 +1,9 @@
+"vertexlitgeneric"
+{
+	"$baseTexture" "models\player\korin/hairCB2"
+	"$halflambert" 1
+	"$nodecal" 1
+}
+
+
+

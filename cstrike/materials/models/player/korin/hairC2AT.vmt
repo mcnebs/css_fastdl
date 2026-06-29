@@ -1,0 +1,8 @@
+"vertexlitgeneric"
+{
+	"$baseTexture" "models\player\korin\hairC2"
+	"$translucent" 1
+	"$halflambert" 1
+	"$nodecal" 1
+	"$alphatest" 1
+}

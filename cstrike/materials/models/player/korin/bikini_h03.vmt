@@ -1,0 +1,8 @@
+"vertexlitgeneric"
+{
+	"$baseTexture" "models\player\korin/bikini_h03"
+	"$bumpmap" "models\player\korin/bikini01N"
+	"$normalmapalphaenvmapmask"
+	"$selfillum" 1
+	"$model" 1
+}
